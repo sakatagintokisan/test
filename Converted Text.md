@@ -266,12 +266,6 @@ implementation : [DSU implementation](https://cp-algorithms.com/data_structures/
 
 - [Fun Problem 1](https://drive.google.com/drive/folders/1O6GqNEIpj6GKcMpAqsrV6_6SdeXXxYnX?usp=sharing)
 
-**Assignments**
-
-- [****Test Assignment****](https://classroom.github.com/a/n2b4h2sU)
-
-- [****Assignment 1******** ](https://classroom.github.com/a/hp9a8Fu1)**(Deadline: 17/06/24 23:59 )**
-
 [**Notes**](https://drive.google.com/drive/folders/1UZhYKqwFy-D2G8tYg46wTK11HDRPmvjj?usp=sharing)
 
 ********
