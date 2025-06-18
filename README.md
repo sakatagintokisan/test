@@ -9,7 +9,8 @@ A structured 7‑week roadmap to mastering C++ STL, fundamental algorithms, and 
 ```plaintext
 cpp-algo-curriculum/
 ├── syllabus/                   # Weekly topic outlines and resource links
-│   └── syllabus.md             # Full syllabus in Markdown
+│   ├── syllabus.md             # Full syllabus in Markdown
+│   └── Notes 
 ├── implementations/            # Code solutions for key data structures
 │   ├── 2d_prefix_sum.cpp       # 2D prefix-sum / submatrix sum implementation
 │   ├── order_set_multiset.cpp  # PBDS order_set and multiset implementation
@@ -17,7 +18,6 @@ cpp-algo-curriculum/
 │   └── sparse_table.cpp        # Sparse table implementation
 ├── assignments/                # Submitted assignment files
 │   └── assignment1_submission/ # All files for Assignment 1 (deadline 17/06/2024)
-├── LICENSE                     # (Optional) MIT license file
 └── README.md                   # Project overview and usage instructions
 ```
 
@@ -66,19 +66,4 @@ All detailed weekly topics and practice links are in **syllabus/syllabus.md**. A
    - Check `assignments/assignment1_submission/` for the completed Assignment 1 source files and write-ups.
 
 ---
-
-## Contributing
-
-Contributions are welcome! To propose edits or add resources:
-
-1. Fork this repository on GitHub.
-2. Create a new branch (`git checkout -b feature/awesome-topic`).
-3. Commit your additions (`git commit -m "Add week8 advanced graphs"`).
-4. Push to your fork & open a Pull Request.
-
----
-
-## License
-
-This work is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
